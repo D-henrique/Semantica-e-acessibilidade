@@ -5,7 +5,7 @@ Este projeto tem como objetivo melhorar a acessibilidade de um código HTML forn
 O desafio proposto foi corrigir a semântica do código para torná-lo mais acessível. A página fornecida apresentava os elementos do HTML desorganizados e cheios de tags ``<div>``, o que dificultava a compreensão da estrutura da página e a navegação para usuários com deficiências visuais ou cognitivas.
 
 
-![visual do código sem acessibilidade](images\HTML-sem-acessibilidade.png)
+![visual do código sem acessibilidade](images/HTML-sem-acessibilidade.png)
 
 
 ## 🧩 Aprendizados
